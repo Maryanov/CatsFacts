@@ -1,0 +1,10 @@
+<resources>
+    <!-- general strings -->
+    <string name="empty"/>
+    <string name="app_name">Cats Facts</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- for debug -->
+    <string name="cat_facts_text_example">cat_facts_text_example</string>
+    <string name="create_data_text_example">01.01.2020г. 01:01</string>
+</resources>

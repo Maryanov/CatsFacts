@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.may.retech_test.ui.activities.MainActivity">
+    <item android:id="@+id/action_load"
+        android:icon="@drawable/icon_refresh_white"
+        android:title="@string/action_refresh"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+</menu>
